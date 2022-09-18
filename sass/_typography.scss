@@ -26,6 +26,10 @@
     font-size: 1.3rem;
     color: $color-primary;
     text-transform: uppercase;
+
+    &.type1 {
+        margin-bottom: .5rem;
+    }
 }
 
 .heading-4 {
